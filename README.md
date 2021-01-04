@@ -1,2 +1,3 @@
-# router
- Simple php router
+# Sugin router
+
+Simple php router installable by composer
