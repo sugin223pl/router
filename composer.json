@@ -1,6 +1,6 @@
 {
   "name": "sugin/router",
-  "description": "Sugin router",
+  "description": "Simple php router installable by composer",
   "type": "library",
   "keywords": ["php", "dotenv", "router"],
   "homepage": "https://github.com/sugin223pl",
