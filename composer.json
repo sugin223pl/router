@@ -1,0 +1,24 @@
+{
+  "name": "sugin/router",
+  "description": "Sugin router",
+  "type": "library",
+  "keywords": ["php", "dotenv", "router"],
+  "homepage": "https://github.com/sugin223pl",
+  "authors": [
+    {
+      "name": "Sugin",
+      "email": "support@auth0.com",
+      "homepage": "https://github.com/sugin223pl",
+      "role": "Developer"
+    }
+  ], 
+  "require": {
+        "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sugin\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
